@@ -8,3 +8,9 @@ This seems to follow the structure:
 AdjectiveAdjectiveNoun
 
 This code is an attempt to replicate this structure.
+
+do it
+-----
+
+1. clone this repository
+2. `python print_random.py`
